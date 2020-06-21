@@ -1,4 +1,4 @@
-# list
+# List
 firelist
-This is a private list
-Please don't use it for evil!!!
+### This is a private list.
+#### Please don't use it for evil!!!
